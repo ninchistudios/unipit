@@ -14,5 +14,14 @@ About time I started controlling the config files for my cockpit.
     * [Gadroc's Workshop](http://gadrocsworkshop.com/)
   * [SoftTH](http://www.softth.net/)
   * [Fritzing Arduino tools](http://fritzing.org)
+* Hardware:
+  * [Thrustmaster](http://thrustmaster.com)
+  * [TrackIR](http://naturalpoint.com/trackir/)
+  * [Oculus](http://oculus.com)
+  * [CH Products](#)
+  * [Saitek](#)
+* Friends:
+  * [69th Fighting Falcons (Akers-Barnes cockpit)](#)
+  * [Mike's Flight Deck](http://mikesflightdeck.com)
 
 
