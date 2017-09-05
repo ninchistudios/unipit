@@ -1,36 +1,26 @@
 local diff = {
 	["axisDiffs"] = {
-		["a2012cdnil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_SLIDER1",
-				},
-			},
-			["name"] = "Zoom View",
-		},
-		["a2087cdnil"] = {
-			["changed"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "Flight Control Collective",
-		},
-		["a3026cd3"] = {
-			["name"] = "Throttle",
+		["a2007cdnil"] = {
+			["name"] = "Camera Horizontal View",
 			["removed"] = {
 				[1] = {
-					["key"] = "JOY_SLIDER1",
+					["key"] = "MOUSE_X",
+				},
+			},
+		},
+		["a2008cdnil"] = {
+			["name"] = "Camera Vertical View",
+			["removed"] = {
+				[1] = {
+					["key"] = "MOUSE_Y",
+				},
+			},
+		},
+		["a2009cdnil"] = {
+			["name"] = "Camera Zoom View",
+			["removed"] = {
+				[1] = {
+					["key"] = "MOUSE_Z",
 				},
 			},
 		},
