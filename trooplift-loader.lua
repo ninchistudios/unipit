@@ -1,0 +1,1 @@
+dofile("C:/Users/james/Saved\ Games/DCS/Missions/trooplift.lua")

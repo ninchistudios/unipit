@@ -1,0 +1,244 @@
+campaign = 
+{
+    stages = 
+    {
+        [1] = 
+        {
+            name = "Stage 1",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "New Arrival.miz",
+                    description = "",
+                    fullpath = "C:\\Program Files\\Eagle Dynamics\\DCS World\\Mods\\aircrafts\\Uh-1H\\Missions\\EN\\Campaigns\\New Arrival.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [1]
+        [2] = 
+        {
+            name = "Stage 2",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Weapons Training.miz",
+                    description = "",
+                    fullpath = "C:\\Users\\Markus\\Saved Games\\DCS\\Missions\\HueyCampaign\\Weapons Training.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [2]
+        [3] = 
+        {
+            name = "Stage 3",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Liquidator.miz",
+                    description = "",
+                    fullpath = "C:\\Users\\Markus\\Saved Games\\DCS\\Missions\\HueyCampaign\\Liquidator.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [3]
+        [4] = 
+        {
+            name = "Stage 4",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Qualification Flight.miz",
+                    description = "",
+                    fullpath = "C:\\Users\\Markus\\Saved Games\\DCS\\Missions\\HueyCampaign\\Qualification Flight.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [4]
+        [5] = 
+        {
+            name = "Stage 5",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Fast and Furious.miz",
+                    description = "",
+                    fullpath = "C:\\Users\\Markus\\Saved Games\\DCS\\Missions\\HueyCampaign\\Fast and Furious.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [5]
+        [6] = 
+        {
+            name = "Stage 6",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Transfer Flight.miz",
+                    description = "",
+                    fullpath = "C:\\Users\\Markus\\Saved Games\\DCS\\Missions\\HueyCampaign\\Transfer Flight.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [6]
+        [7] = 
+        {
+            name = "Stage 7",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Naval Jack.miz",
+                    description = "",
+                    fullpath = "C:\\Users\\Markus\\Saved Games\\DCS\\Missions\\HueyCampaign\\Naval Jack.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [7]
+        [8] = 
+        {
+            name = "Stage 8",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Airmobile Assault.miz",
+                    description = "",
+                    fullpath = "C:\\Users\\Markus\\Saved Games\\DCS\\Missions\\HueyCampaign\\Airmobile Assault.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [8]
+        [9] = 
+        {
+            name = "Stage 9",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Caesar.miz",
+                    description = "",
+                    fullpath = "C:\\Users\\Markus\\Saved Games\\DCS\\Missions\\HueyCampaign\\Caesar.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [9]
+        [10] = 
+        {
+            name = "Stage 10",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Ho Chi Minh Trail.miz",
+                    description = "",
+                    fullpath = "C:\\Users\\Markus\\Saved Games\\DCS\\Missions\\HueyCampaign\\Ho Chi Minh Trail.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [10]
+        [11] = 
+        {
+            name = "Stage 11",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Sting Like a Bee.miz",
+                    description = "",
+                    fullpath = "C:\\Users\\Markus\\Saved Games\\DCS\\Missions\\HueyCampaign\\Sting Like a Bee.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [11]
+        [12] = 
+        {
+            name = "Stage 12",
+            missions = 
+            {
+                [1] = 
+                {
+                    interval = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of interval
+                    file = "Operation Crazy Horse.miz",
+                    description = "",
+                    fullpath = "C:\\Users\\Markus\\Saved Games\\DCS\\Missions\\HueyCampaign\\Operation Crazy Horse.miz",
+                }, -- end of [1]
+            }, -- end of missions
+        }, -- end of [12]
+    }, -- end of stages
+    directory = "C:\\Program Files\\Eagle Dynamics\\DCS World\\Mods\\aircrafts\\Uh-1H\\Missions\\EN\\Campaigns\\",
+    description = "Ride your crazy horse into battle as a conflict between Russian and Western forces is brewing near the Abkhaz-Georgian border. Russian forces have occupied Abkhazia after recent popular unrest in the region, and are threatening to advance further into Georgian territory. US Army helicopter squadrons and Air Force jets have been stationed in Georgia trying to keep the Russian forces in check. \
+\
+The campaign includes\
+\
+- simple weapons training\
+- employing Huey as fire fighter\
+- flight qualification test\
+- troop insertion by fast rope technique\
+- low visibility flying\
+- dropping sling load on speeding ship\
+- airmobile assault mission\
+- CSAR mission\
+- strafing of a truck convoy\
+- inserting MANPADs unit into strategic front line location\
+- complex final mission\
+",
+    picture = "1st Cav.png",
+    name = "Crazy Horse Campaign",
+    startStage = 1,
+    fullPath = "C:\\Program Files\\Eagle Dynamics\\DCS World\\Mods\\aircrafts\\Uh-1H\\Missions\\EN\\Campaigns\\Crazy Horse Campaign May 16th.cmp",
+    pictureSuccess = "huey.png",
+} -- end of campaign
